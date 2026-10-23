@@ -1,0 +1,16 @@
+city,country,listings,median_price_per_night_usd,mean_price_per_night_usd,mean_rating,median_reviews,superhost_pct,guest_favorite_pct,unrated_pct,city_id
+Amsterdam,Netherlands,46,555.67,617.82,4.87,46.5,50.0,47.83,23.91,1
+Paris,France,42,487.24,496.87,4.97,9.5,33.33,52.38,21.43,12
+Copenhagen,Denmark,45,484.28,499.05,4.9,25.0,51.11,51.11,17.78,6
+Dublin,Ireland,43,428.88,456.56,4.86,108.0,67.44,58.14,0.0,7
+London,United Kingdom,44,405.8,474.87,4.93,4.0,40.91,34.09,34.09,9
+Barcelona,Spain,47,330.72,348.17,4.83,226.0,59.57,63.83,6.38,3
+Madrid,Spain,37,288.69,302.85,4.9,31.0,32.43,64.86,13.51,10
+Rome,Italy,41,284.71,290.64,4.94,53.0,58.54,75.61,2.44,14
+Vienna,Austria,36,281.6,305.7,4.92,84.0,61.11,66.67,5.56,15
+Milan,Italy,46,274.97,269.64,4.93,47.5,58.7,63.04,13.04,11
+Berlin,Germany,43,226.56,230.63,4.88,97.0,48.84,55.81,13.95,4
+Prague,Czechia,39,216.09,226.04,4.96,103.0,76.92,82.05,7.69,13
+Lisbon,Portugal,42,205.36,224.04,4.93,144.0,52.38,78.57,9.52,8
+Budapest,Hungary,42,195.53,198.25,4.9,150.5,64.29,76.19,7.14,5
+Athens,Greece,43,140.78,142.89,4.94,64.0,74.42,81.4,9.3,2

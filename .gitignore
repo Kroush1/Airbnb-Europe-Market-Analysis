@@ -1,0 +1,26 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Scraper backup (same content as Airbnb_Scraped_Data.csv)
+data/raw/*_Backup.csv
+
+# Old copies kept locally, not part of the repo
+_to_delete/
+
+# Office / Power BI temporary files
+~$*
+*.bak

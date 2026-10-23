@@ -1,0 +1,5 @@
+price_tier,listings,min_price,max_price,mean_rating,median_reviews
+Budget,159,72.57,205.67,4.9,64.0
+Mid-range,159,205.72,292.27,4.9,91.0
+Upper,159,292.64,422.4,4.9,52.0
+Luxury,159,422.59,1494.3,4.93,24.0

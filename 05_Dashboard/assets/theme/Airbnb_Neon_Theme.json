@@ -1,0 +1,88 @@
+{
+  "name": "Airbnb Neon Purple",
+  "dataColors": [
+    "#E62CC9",
+    "#A855F7",
+    "#2FA8E0",
+    "#6D28D9",
+    "#F472B6",
+    "#818CF8",
+    "#22D3EE",
+    "#C084FC"
+  ],
+  "background": "#1B1650",
+  "foreground": "#FFFFFF",
+  "backgroundLight": "#2A2266",
+  "backgroundNeutral": "#3B3390",
+  "foregroundNeutralSecondary": "#C9C3F5",
+  "tableAccent": "#E62CC9",
+  "good": "#22D3EE",
+  "neutral": "#A855F7",
+  "bad": "#F43F5E",
+  "maximum": "#E62CC9",
+  "center": "#A855F7",
+  "minimum": "#2FA8E0",
+  "textClasses": {
+    "callout": {
+      "color": "#FFFFFF",
+      "fontFace": "Segoe UI Bold",
+      "fontSize": 28
+    },
+    "title": {
+      "color": "#FFFFFF",
+      "fontFace": "Segoe UI Bold",
+      "fontSize": 14
+    },
+    "header": {
+      "color": "#FFFFFF",
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12
+    },
+    "label": {
+      "color": "#E6E1FF",
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 10
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#2A2266"
+              }
+            },
+            "transparency": 15
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#4B42A8"
+              }
+            },
+            "radius": 20
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Bold",
+            "alignment": "center"
+          }
+        ]
+      }
+    }
+  }
+}
